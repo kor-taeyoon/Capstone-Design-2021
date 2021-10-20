@@ -50,3 +50,4 @@ Repository for archiving Capston Design data
   - http://www.yzuda.org/tutorials/hspice/02/
   - http://www.yzuda.org/tutorials/hspice/03/
 
+- 빵판을 활용한 SRAM 구현 : https://www.instructables.com/DIY-SRAM-The-RAM-in-your-Microcontroller/
